@@ -20,7 +20,8 @@
     ],
     "baseUrl": ".",
     "paths": {
-      "@/*": ["./*"]
+      "@/*": ["./*"],
+      "@/app/ui/fonts": ["./app/ui/fonts"]
     }
   },
   "include": [
